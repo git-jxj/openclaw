@@ -1,0 +1,16 @@
+{
+  "fallbackKeys": [
+    "chat.autoScrollAlways",
+    "chat.autoScrollMode",
+    "chat.autoScrollNearBottom",
+    "chat.autoScrollOff"
+  ],
+  "generatedAt": "2026-05-14T06:33:30.550Z",
+  "locale": "fa",
+  "model": "gpt-5.5",
+  "provider": "openai",
+  "sourceHash": "6da02970883598bb497ff7aab5522e0cf18c9b37332e104e7c5a47ad7675e016",
+  "totalKeys": 1134,
+  "translatedKeys": 1130,
+  "workflow": 1
+}
